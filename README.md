@@ -20,6 +20,7 @@ steps:
 - run: lazbuild YourTestProject.lpi
 - run: YourTestProject
 ```
+Test
 
 ## Matrix example usage
 
